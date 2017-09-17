@@ -115,6 +115,8 @@
       sk: gettextCatalog.getString("Slovak"),
       sl: gettextCatalog.getString("Slovenian"),
       sr: gettextCatalog.getString("Serbian"),
+      es_419: gettextCatalog.getString("Spanish - Latin"),
+      es_ES: gettextCatalog.getString("Spanish - Spain"),
       sv: gettextCatalog.getString("Swedish"),
       zh_CN: gettextCatalog.getString("Chinese simplified"),
       zh_TW: gettextCatalog.getString("Chinese traditional")
